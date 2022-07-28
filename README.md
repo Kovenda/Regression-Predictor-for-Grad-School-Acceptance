@@ -320,9 +320,7 @@ plot (part2_fit2)
  
 ```
 ![alt text](https://github.com/kovenda/Regression-Predictor-for-Grad-School-Acceptance//blob/main/lastresiduals.jpg?raw=true)
-
-
-
+![alt text](https://github.com/kovenda/Regression-Predictor-for-Grad-School-Acceptance//blob/main/lastresiduals3.jpg?raw=true)
 
 
 
